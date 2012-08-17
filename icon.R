@@ -22,7 +22,7 @@ icon.all <-
                                        children = gList(
                                                   pointsGrob(x = c(1,1,2,3,3,3,4,4,5,5,5,5,6,7,7,7,8,8,9)/10,
                                                              y = c(1,2,1,1,2,3,1,2,1,2,3,4,1,1,2,3,1,2,1)/10,
-                                                             pch = 19, size = unit(.1, "npc"),
+                                                             pch = 15, size = unit(.1, "npc"),
                                                              gp = gpar(col = "black", cex = 0.5), default.units = "npc",
                                                              vp="bl"),
                                                   pointsGrob(x=seq(0.1, 0.9, length=6), y=seq(0.9, 0.1, length=6),
